@@ -1,4 +1,4 @@
 CSML-Course-Material
 ====================
 
-A collection of scripts written to better understand the course material in CSML - UCL 2014/15. Any student at UCL studying the materials is more than welcome to submit corrections or addtions to this folder.
+Redundant - all code written was part of assignments and as such unsuitable for sharing.
