@@ -1,4 +1,4 @@
 CSML-Course-Material
 ====================
 
-Redundant - all code written was part of assignments and as such unsuitable for sharing.
+This repo contains a few miscellaneous scripts generally created to implement algorithms or convince myself empirically of various results.
